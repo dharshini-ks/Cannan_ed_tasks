@@ -1,0 +1,14 @@
+Home
+│
+├── Hero Section
+├── About Canaan Ed & Tech
+├── Services Overview
+├── Internship Highlights
+├── Footer
+│
+├── About Us
+├── Training Programs
+├── Internships
+├── Services
+└── Contact Us   
+

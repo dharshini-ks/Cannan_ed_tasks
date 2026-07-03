@@ -1,0 +1,21 @@
+TITLE:
+
+Canaan Ed & Tech Website redesign
+
+OBJECTIVE:
+
+To create a responsive website using HTML, CSS, JS
+
+FEATURES:
+Home page
+About section
+Internship section
+Services section
+Contact form
+TOOLS:
+
+HTML, CSS, JavaScript
+
+OUTPUT:
+
+Successfully built and deployed website
